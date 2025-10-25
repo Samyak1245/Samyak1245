@@ -1,39 +1,52 @@
-<!--
-Hi there 👋  
-This is the special README for your GitHub profile — it appears right on your profile page!
--->
 
-<h1 align="center">Hi, I'm Samyak Pusate 👋</h1>
-<h3 align="center">B.Tech in Computer Technology | Aspiring Researcher in Space Science & Technology</h3>
+<h1 style="text-align: right;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FFFF00&width=600&lines=Hello+Humans!!" alt="Typing SVG"/>
+  </a>
+</h1>
+
+<h1 align="center">I'm Samyak👋</h1>
+<h3 align="center">B.Tech in Computer Technology | Aspiring Student of Space Science & Technology</h3>
 
 ---
 
 ### 🚀 About Me  
-- 🎓 I'm a first-year B.Tech student at **YCCE, Nagpur**.  
+- 🎓 I'm a B.Tech student at **YCCE, Nagpur**.  
 - 🌌 Passionate about **space science, technology, and research**.  
-- 💻 I love exploring **web development**, **Python**, and **data science**.  
-- 🎶 I’ve been playing the **keyboard for 8 years**, currently part of the *Seven Strings Music Club*.  
-- 🧠 Always curious about how things work — from the quantum level to the cosmic scale.  
+- 💻 Currently learning **DSA**, **web development**, **Python**, and **data science**.  
+- 🧠 Always curious about how things work — from the quantum level to the cosmic scale.
 
 ---
 
 ### 🛠️ Tech Stack  
 
 #### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004283?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+</p>
+
+---
 
 #### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
+</p>
+
+---
 
 #### ⚙️ Tools & Platforms  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
+</p>
 
 ---
 
@@ -46,25 +59,16 @@ This is the special README for your GitHub profile — it appears right on your 
 
 ---
 
-### 🧩 Featured Projects  
-🚧 *Coming soon...* — Stay tuned for exciting projects related to **AI**, **web development**, and **space science visualizations**.  
-
----
-
-### 🎯 Goals for 2025  
-- 🌠 Write my first **research paper** in space technology.  
-- 🪐 Build a small web project that explains **relativity and cosmology** visually.  
-- 💼 Contribute to **open-source**.  
-- 🎹 Compose a **keyboard instrumental** inspired by space.  
-
----
-
 ### 📫 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/samyak-pusate" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:samyakpusate@gmail.com"><img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/samyak-pusate" target="linkedin.com/in/samyakpusate">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:samyakpusate111@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40"/>
+  </a>
 </p>
 
----
 
-⭐ *"Curiosity is the spark behind every discovery. Keep exploring, keep learning."*  
+---
