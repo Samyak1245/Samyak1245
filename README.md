@@ -59,7 +59,7 @@
 
 ### 📫 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/samyak-pusate" target="linkedin.com/in/samyakpusate12">
+  <a href="https://www.linkedin.com/in/samyakpusate12" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
