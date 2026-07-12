@@ -1,4 +1,3 @@
-
 <h1 style="text-align: right;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FFFF00&width=600&lines=Hello+Humans!!" alt="Typing SVG"/>
@@ -11,10 +10,11 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 I'm a B.Tech student at **YCCE, Nagpur**.  
-- 🌌 Passionate about **space science, technology, and research**.  
-- 💻 Currently learning **DSA**, **web development**, **Python**, and **data science**.  
-- 🧠 Always curious about how things work — from the quantum level to the cosmic scale.
+- 🎓 B.Tech Computer Technology student at YCCE, Nagpur (2028)
+- 📊 Aspiring Data Analyst interested in uncovering insights through data
+- 💻 Proficient in Python, SQL, and problem-solving
+- 📈 Focused on Data Analytics, Database Management, and Business Intelligence
+- 🚀 Currently building projects in SQL, PostgreSQL, Power BI, and Python
 
 ---
 
@@ -23,18 +23,18 @@
 #### 💻 Programming Languages  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
 </p>
 
 ---
 
-#### 🌐 Web Development  
+#### 📊 Data Analysis  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
 </p>
 
 ---
@@ -44,6 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="pgAdmin" width="40" height="40"/>
 </p>
 
 ---
@@ -70,14 +71,6 @@
 </p>
 
 ---
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Samyak1245&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Samyak1245&theme=tokyonight"/>
-</p>
-
----
 
 ### 📫 Connect with Me  
 <p align="left">
@@ -85,7 +78,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:samyakpusate111@gmail.com">
+  <a href="mailto:samyak.pusate.work@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40"/>
   </a>
 </p>
