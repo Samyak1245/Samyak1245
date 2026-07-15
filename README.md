@@ -5,13 +5,13 @@
 </h1>
 
 <h1 align="center">I'm Samyak👋</h1>
-<h3 align="center">B.Tech in Computer Technology | Aspiring Student of Space Science & Technology</h3>
+<h3 align="center">B.Tech in Computer Technology |  Aspiring Stuent of Space Science & Technology</h3>
 
 ---
 
 ### 🚀 About Me  
 - 🎓 B.Tech Computer Technology student at YCCE, Nagpur (2028)
-- 📊 Aspiring Data Analyst interested in uncovering insights through data
+- 📊 Data Analyst interested in uncovering insights through data
 - 💻 Proficient in Python, SQL, and problem-solving
 - 📈 Focused on Data Analytics, Database Management, and Business Intelligence
 - 🚀 Currently building projects in SQL, PostgreSQL, Power BI, and Python
