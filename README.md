@@ -50,8 +50,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="pgAdmin" width="40" height="40"/>
 </p>
 
----
-### 🧩 Coding Profiles
+<!-- ### 🧩 Coding Profiles
 <p align="left">
   <a href="https://leetcode.com/u/Samyak_Pusate/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/ffffff/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="40" height="40"/>
@@ -71,7 +70,7 @@
     <a href="https://www.codechef.com/users/your-codechef-username" target="_blank"></a> &nbsp;•&nbsp;
     <a href="[https://leetcode.com/your-leetcode-username](https://leetcode.com/u/Samyak_Pusate/)" target="_blank"></a>
   </sub>
-</p>
+</p> -->
 
 ---
 
