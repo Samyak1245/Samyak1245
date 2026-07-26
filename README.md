@@ -1,8 +1,11 @@
-<h1 style="text-align: right;">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FFFF00&width=600&lines=Hello+Humans!!" alt="Typing SVG"/>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FFFF00&center=true&vCenter=true&width=600&lines=Hello+Humans!!"
+      alt="Typing SVG"
+    />
   </a>
-</h1>
+</p>
 
 <h1 align="center">I'm Samyak👋</h1>
 <h3 align="center">B.Tech in Computer Technology |  Aspiring Stuent of Space Science & Technology</h3>
