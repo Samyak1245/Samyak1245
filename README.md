@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">I'm Samyak👋</h1>
-<h3 align="center"> Engineering Student| Fasinated about Astronomy</h3>
+<h3 align="center"> Engineering Student | Fasinated about Astronomy</h3>
 
 ---
 
