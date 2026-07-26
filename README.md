@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">I'm Samyak👋</h1>
-<h3 align="center">B.Tech in Computer Technology |  Aspiring Student of Space Science & Technology</h3>
+<h3 align="center">B.Tech in Computer Technology | Fasinated about Astronomy</h3>
 
 ---
 
