@@ -21,6 +21,13 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Python+%7C+C%2B%2B+%7C+Flask+%7C+OpenCV;Docker+%7C+PostgreSQL+%7C+MySQL+%7C+Power+BI;Pandas+%7C+NumPy+%7C+Windows+%7C+VS+Code;Anaconda+%7C+Machine+Learning" alt="Tech Stack" />
+</p>
+
+
+
 ### 🛠️ Tech Stack  
 
 #### 💻 Programming Languages  
@@ -29,7 +36,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
 </p>
 
----
+#### ⚙️ Frameworks & Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+</p>
+
 
 #### 📊 Data Analysis  
 <p align="left">
@@ -42,12 +55,12 @@
 
 ---
 
-#### ⚙️ Tools & Platforms  
+#### ⚙️ Platforms  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="pgAdmin" width="40" height="40"/>
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="pgAdmin" width="40" height="40"/> -->
 </p>
 
 <!-- ### 🧩 Coding Profiles
