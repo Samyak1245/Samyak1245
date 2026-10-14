@@ -10,42 +10,36 @@
 <h1 align="center">I'm Samyak👋</h1>
 <h3 align="center"> Engineering Student </h3>
 
----
 
+<!--
+---
 ### 🚀 About Me  
 - 🎓 B.Tech Computer Technology student at YCCE, Nagpur (2028)
 - 📊 Data Analyst interested in uncovering insights through data
 - 💻 Proficient in Python, SQL, and problem-solving
 - 📈 Focused on Data Analytics, Database Management, and Business Intelligence
 - 🚀 Currently building projects in SQL, PostgreSQL, Power BI, and Python
+---
+-->
+
 
 ---
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Python+%7C+C%2B%2B+%7C+Flask+%7C+OpenCV;Docker+%7C+PostgreSQL+%7C+MySQL+%7C+Power+BI;Pandas+%7C+NumPy+%7C+Windows+%7C+VS+Code;Anaconda+%7C+Machine+Learning" alt="Tech Stack" />
+ 
 </p>
 
 
 
 ### 🛠️ Tech Stack  
 
-#### 💻 Programming Languages  
+<!-- #### 💻 Programming Languages -->  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-</p>
-
-#### ⚙️ Frameworks & Tools  
-<p align="left">
-<img src="https://cdn.simpleicons.org/flask/FFFFFF" alt="Flask" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/flask/FFFFFF" alt="Flask" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-</p>
-
-
-#### 📊 Data Analysis  
-<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
@@ -53,7 +47,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
 </p>
 
----
+<!-- #### ⚙️ Frameworks & Tools 
+<p align="left">
+
+</p>
+ 
+
+
+#### 📊 Data Analysis  
+<p align="left">
+  
+</p>
+
+-->
 
 #### ⚙️ Platforms  
 <p align="left">
