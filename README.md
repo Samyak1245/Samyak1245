@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Samyak+Pusate+%F0%9F%91%8B;Data+Analyst+%7C+Engineering+Scholar;Turning+Raw+Data+into+Actionable+Insights;Pianist+%26+Creative+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Samyak+Pusate+%F0%9F%91%8B;Student+%7C+Engineering;Turning+Raw+Data+into+Usefull+Insights" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -26,9 +26,8 @@
 
 - 🎓 **Education:** 3rd Year B.Tech in **Computer Technology** at YCCE, Nagpur with a Multidisciplinary Minor in **Data Science** (CGPA: **8.4**).
 - 📊 **Specialization:** End-to-end **Data Analytics**, Database Management, Business Intelligence, and Predictive Modeling.
-- 🏆 **Achievement:** **Runner-Up at HackNexus 2025** — Designed an ML-driven Smart Crime Pattern Analytics & Hotspot Forecasting Platform.
-- 🏛️ **Campus Leadership:** Literary Head at **ISTE Student Chapter, YCCE**; Event Organizer for intercollegiate tech fests; active Parliamentary Debate & MUN delegate.
-- 🎹 **Beyond Code:** Pianist with **8+ years of musical experience** arranging and recording piano covers on [YouTube](https://www.youtube.com/@samyak_pusate).
+- 🏛️ **Leadership:** Event Organizer for intercollegiate competitions; Participant at Parliamentary Debate & MUN delegate.
+- 🎹 **Music:** Pianist, arranging and recording piano covers on [YouTube](https://www.youtube.com/@samyak_pusate).
 
 ---
 
@@ -183,5 +182,5 @@ I have been playing piano for over **8 years** and actively share piano arrangem
 </p>
 
 <p align="center">
-  <sub>© 2026 Samyak Pusate · Open to Data Analytics Internships & Collaborations</sub>
+  <sub>© 2026 Samyak Pusate · Open to Internships & Collaborations</sub>
 </p>
